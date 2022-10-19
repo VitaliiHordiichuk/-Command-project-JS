@@ -2,10 +2,10 @@
   "name": "Command-project-JS",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://jekiekolya.github.io/Command-project-JS",
+  "homepage": "https://VitaliiHordiichuk.github.io/-Command-project-JS",
   "scripts": {
     "start": "parcel src/*.html --no-cache",
-    "build": "parcel build src/*.html --public-url /Command-project-JS/"
+    "build": "parcel build src/*.html --public-url /-Command-project-JS/"
   },
   "repository": {
     "type": "git",
