@@ -165,6 +165,7 @@ screen and (min-width: (1280px - 0.02)) and (min-resolution: 2dppx) {
 .form-search {
   position: relative;
   width: 100%;
+  height: 40px;
 
   @media screen and (min-width: (1280px - 0.02)) {
     width: 288px;
@@ -218,7 +219,7 @@ screen and (min-width: (1280px - 0.02)) and (min-resolution: 2dppx) {
 }
 
 .button-header {
-  visibility: hidden;
+  // visibility: hidden;
   position: absolute;
   width: 50px;
   height: 40px;
